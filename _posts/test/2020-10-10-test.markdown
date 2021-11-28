@@ -2,11 +2,11 @@
 layout: post
 title: "test title!"
 subtitle: "test subtitle!"
-date: 2020-10-10 23:34:01
+date: 2020-10-10 08:34:01
 categories: [全栈, test]
 ---
 
-<!-- 记得md文件的文件名一定要加上日期(eg:2020-10-10-filename) ,但最终博客显示的日期是上面data的数据-->
+<!-- 记得md文件的文件名一定要加上日期(eg:2020-10-10-filename) ,但最终博客显示的日期是上面date的数据-->
 
 # test
 
@@ -23,12 +23,15 @@ int main(){
 ```
 
 ```js
-let a= "guojinghua";
-
+let a = "guojinghua";
+```
 
 ![avatar](/assets/img/2020-10-10-test/test.jpeg)
 
 <img src="/assets/img/2020-10-10-test/test.jpeg" alt="a">avatar
 
 {% include page/explore.html %}{% include page/explore.html %}{% include page/explore.html %}
+
+```
+
 ```

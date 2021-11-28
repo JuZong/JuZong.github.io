@@ -1,0 +1,12 @@
+---
+layout: encrypted
+title: "加密test"
+subtitle: "test subtitle!"
+date: 2021-04-09 08:34:01
+categories: [test]
+data:
+  iv: OqWpbDnxov2dpKRx
+  encrypted: +hdAWV/tJMI6SK9CeR/JyRijgz8=
+---
+
+<!-- 记得md文件的文件名一定要加上日期(eg:2020-10-10-filename) ,但最终博客显示的日期是上面data的数据-->
